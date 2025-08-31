@@ -5,10 +5,10 @@
   ### $StScore = \Delta EW / Total$
   where, $\Delta EW = (no. of positive words - no. of negative words)$
 			
-Polarity of a text is given by a decimal (float) value in the range of [-1,1]. It denotes the positivity of the tone of the given sentence.
-- Pol < 0 : Negative
-- Pol = 0 : Neutral
-- Pol > 0 : Positive
+- Polarity of a text is given by a decimal (float) value in the range of [-1,1]. It denotes the positivity of the tone of the given sentence.
+	- Pol < 0 : Negative
+	- Pol = 0 : Neutral
+	- Pol > 0 : Positive
 
 ## Pre-processing Data
 1. Removal of all special characters and punctuation marks.
