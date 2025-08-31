@@ -1,0 +1,15 @@
+anyascii==0.3.3
+click==8.2.1
+contractions==0.1.73
+joblib==1.5.2
+nltk==3.9.1
+numpy==2.3.2
+pandas==2.3.2
+pyahocorasick==2.2.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+regex==2025.8.29
+six==1.17.0
+textsearch==0.0.24
+tqdm==4.67.1
+tzdata==2025.2
