@@ -89,3 +89,4 @@ And in case of Supervised Learning models Logistic Regression model on Bag of Wo
 
 ## Contributors
 - [Pranith Mahanti](https://github.com/PranithMahanti/)
+- [Dandu Asrith](https://github.com/asrith-306/)
