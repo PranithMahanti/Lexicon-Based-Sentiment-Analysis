@@ -128,6 +128,6 @@ def preprocess(series):
 # test_phrases.csv: Has all sample headlines.
 # final_output.csv: Well, the name explains it, pretty much.
 if __name__ == "__main__":
-    data = pd.read_csv('test_phrases.csv')
-    preprocess(data).to_csv('final_output.txt')
+    data = pd.read_csv('test/test_phrases.csv')
+    preprocess(data).to_csv('test/final_output.csv')
 
