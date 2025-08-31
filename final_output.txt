@@ -1,0 +1,30 @@
+,text,Cleaned,POS tagged,Lemmatized
+0,All these will be headlines.,All these will be headlines ,"[('headlines', 'n')]",headline
+1,Using these lines to check for preprocessing;,Using these lines to check for preprocessing ,"[('using', 'v'), ('lines', 'n'), ('check', 'n'), ('preprocessing', 'n')]",use line check preprocessing
+2,Status quo will not be disturbed at Ayodhya; says Vajpayee,Status quo will not be disturbed at Ayodhya says Vajpayee,"[('status', 'n'), ('quo', 'n'), ('disturbed', 'v'), ('ayodhya', 'a'), ('says', 'v'), ('vajpayee', 'n')]",status quo disturb ayodhya say vajpayee
+3,Fissures in Hurriyat over Pak visit,Fissures in Hurriyat over Pak visit,"[('fissures', 'n'), ('hurriyat', 'v'), ('pak', 'a'), ('visit', 'n')]",fissure hurriyat pak visit
+4,America's unwanted heading for India?,America s unwanted heading for India ,"[('america', 'r'), ('unwanted', 'a'), ('heading', 'n'), ('india', 'n')]",america unwanted heading india
+5,For bigwigs; it is destination Goa,For bigwigs it is destination Goa,"[('bigwigs', 'n'), ('destination', 'n'), ('goa', 'n')]",bigwig destination goa
+6,Extra buses to clear tourist traffic,Extra buses to clear tourist traffic,"[('extra', 'a'), ('buses', 'n'), ('clear', 'a'), ('tourist', 'n'), ('traffic', 'n')]",extra bus clear tourist traffic
+7,Dilute the power of transfers; says Riberio,Dilute the power of transfers says Riberio,"[('dilute', 'n'), ('power', 'n'), ('transfers', 'n'), ('says', 'v'), ('riberio', 'n')]",dilute power transfer say riberio
+8,Focus shifts to teaching of Hindi,Focus shifts to teaching of Hindi,"[('focus', 'n'), ('shifts', 'n'), ('teaching', 'v'), ('hindi', 'n')]",focus shift teach hindi
+9,IT will become compulsory in schools,IT will become compulsory in schools,"[('become', 'v'), ('compulsory', 'n'), ('schools', 'n')]",become compulsory school
+10,Move to stop freedom fighters' pension flayed,Move to stop freedom fighters pension flayed,"[('move', 'n'), ('stop', 'n'), ('freedom', 'n'), ('fighters', 'n'), ('pension', 'n'), ('flayed', 'v')]",move stop freedom fighter pension flay
+11,Gilani claims he applied for passport 2 years ago,Gilani claims he applied for passport years ago,"[('gilani', 'n'), ('claims', 'n'), ('applied', 'v'), ('passport', None), ('years', 'n'), ('ago', 'r')]",gilani claim apply passport year ago
+12,Parivar dismisses PM's warning,Parivar dismisses PM s warning,"[('parivar', 'n'), ('dismisses', 'v'), ('pm', 'v'), ('warning', 'v')]",parivar dismiss pm warn
+13,India; Pak exchange lists of N-plants,India Pak exchange lists of N plants,"[('india', 'v'), ('pak', 'a'), ('exchange', 'n'), ('lists', 'n'), ('n', 'v'), ('plants', 'n')]",india pak exchange list n plant
+14,Will Qureshi's return really help the govt?,Will Qureshi s return really help the govt ,"[('qureshi', 'a'), ('return', 'n'), ('really', 'r'), ('help', 'v'), ('govt', 'n')]",qureshi return really help govt
+15,PM's tacit message: Put Ram tample on hold,PM s tacit message Put Ram tample on hold,"[('pm', 'n'), ('tacit', 'a'), ('message', 'n'), ('put', 'v'), ('ram', 'a'), ('tample', 'n'), ('hold', 'n')]",pm tacit message put ram tample hold
+16,Text of the Prime Minister's article,Text of the Prime Minister s article,"[('text', 'a'), ('prime', 'a'), ('minister', 'n'), ('article', 'n')]",text prime minister article
+17,NCW to focus on violence against women,NCW to focus on violence against women,"[('ncw', 'a'), ('focus', 'n'), ('violence', 'n'), ('women', 'n')]",ncw focus violence woman
+18,BBC's reality TV will focus on AIIMS,BBC s reality TV will focus on AIIMS,"[('bbc', 'n'), ('reality', 'n'), ('tv', 'n'), ('focus', 'n'), ('aiims', 'n')]",bbc reality tv focus aiims
+19,Jaitley firm on legal reforms,Jaitley firm on legal reforms,"[('jaitley', 'n'), ('firm', 'n'), ('legal', 'a'), ('reforms', 'n')]",jaitley firm legal reform
+20,Hoshangabad farmers have enough water,Hoshangabad farmers have enough water,"[('hoshangabad', 'n'), ('farmers', 'n'), ('enough', 'a'), ('water', 'n')]",hoshangabad farmer enough water
+21,BJP jumps into rail track conversion issue,BJP jumps into rail track conversion issue,"[('bjp', 'n'), ('jumps', 'n'), ('rail', 'v'), ('track', 'n'), ('conversion', 'n'), ('issue', 'n')]",bjp jump rail track conversion issue
+22,America's unwanted heading for India?,America s unwanted heading for India ,"[('america', 'r'), ('unwanted', 'a'), ('heading', 'n'), ('india', 'n')]",america unwanted heading india
+23,State may take AP to court over Krishna,State may take AP to court over Krishna,"[('state', 'n'), ('may', 'v'), ('take', 'v'), ('ap', 'a'), ('court', 'n'), ('krishna', 'n')]",state may take ap court krishna
+24,This official has sued the briber,This official has sued the briber,"[('official', 'a'), ('sued', 'v'), ('briber', 'v')]",official sue briber
+25,Park turns temple compound as residents watch,Park turns temple compound as residents watch,"[('park', 'n'), ('turns', 'v'), ('temple', 'a'), ('compound', 'n'), ('residents', 'n'), ('watch', 'v')]",park turn temple compound resident watch
+26,Moves afoot to evict squatters in Urban dist,Moves afoot to evict squatters in Urban dist,"[('moves', 'n'), ('afoot', 'v'), ('evict', 'a'), ('squatters', 'n'), ('urban', 'a'), ('dist', 'n')]",move afoot evict squatter urban dist
+27,Mafia calls the shots in Gandhinagar too,Mafia calls the shots in Gandhinagar too,"[('mafia', 'n'), ('calls', 'v'), ('shots', 'n'), ('gandhinagar', 'n')]",mafia call shot gandhinagar
+28,Meet held on cashew crop forecasting,Meet held on cashew crop forecasting,"[('meet', 'n'), ('held', 'v'), ('cashew', 'a'), ('crop', 'n'), ('forecasting', 'n')]",meet hold cashew crop forecasting
